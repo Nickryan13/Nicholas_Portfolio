@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Nickryan13/github.io/Nicholas_Portfolio/static/css/main.431d564f.chunk.css",
+    "main.js": "/Nickryan13/github.io/Nicholas_Portfolio/static/js/main.6bc326b4.chunk.js",
+    "main.js.map": "/Nickryan13/github.io/Nicholas_Portfolio/static/js/main.6bc326b4.chunk.js.map",
+    "runtime-main.js": "/Nickryan13/github.io/Nicholas_Portfolio/static/js/runtime-main.c46ec263.js",
+    "runtime-main.js.map": "/Nickryan13/github.io/Nicholas_Portfolio/static/js/runtime-main.c46ec263.js.map",
+    "static/css/2.a894a7ba.chunk.css": "/Nickryan13/github.io/Nicholas_Portfolio/static/css/2.a894a7ba.chunk.css",
+    "static/js/2.d125fcfc.chunk.js": "/Nickryan13/github.io/Nicholas_Portfolio/static/js/2.d125fcfc.chunk.js",
+    "static/js/2.d125fcfc.chunk.js.map": "/Nickryan13/github.io/Nicholas_Portfolio/static/js/2.d125fcfc.chunk.js.map",
+    "index.html": "/Nickryan13/github.io/Nicholas_Portfolio/index.html",
+    "static/css/2.a894a7ba.chunk.css.map": "/Nickryan13/github.io/Nicholas_Portfolio/static/css/2.a894a7ba.chunk.css.map",
+    "static/css/main.431d564f.chunk.css.map": "/Nickryan13/github.io/Nicholas_Portfolio/static/css/main.431d564f.chunk.css.map",
+    "static/js/2.d125fcfc.chunk.js.LICENSE.txt": "/Nickryan13/github.io/Nicholas_Portfolio/static/js/2.d125fcfc.chunk.js.LICENSE.txt",
+    "static/media/cozy_homes.13990e56.png": "/Nickryan13/github.io/Nicholas_Portfolio/static/media/cozy_homes.13990e56.png",
+    "static/media/ecomm.215523e8.png": "/Nickryan13/github.io/Nicholas_Portfolio/static/media/ecomm.215523e8.png",
+    "static/media/me.082115c5.jpg": "/Nickryan13/github.io/Nicholas_Portfolio/static/media/me.082115c5.jpg",
+    "static/media/movie.d2623f9c.png": "/Nickryan13/github.io/Nicholas_Portfolio/static/media/movie.d2623f9c.png",
+    "static/media/pokemon.a25e626c.png": "/Nickryan13/github.io/Nicholas_Portfolio/static/media/pokemon.a25e626c.png",
+    "static/media/portfolio.ca86532d.png": "/Nickryan13/github.io/Nicholas_Portfolio/static/media/portfolio.ca86532d.png",
+    "static/media/ravenous.227a38f2.png": "/Nickryan13/github.io/Nicholas_Portfolio/static/media/ravenous.227a38f2.png",
+    "static/media/travel.7c8fdfb9.png": "/Nickryan13/github.io/Nicholas_Portfolio/static/media/travel.7c8fdfb9.png",
+    "static/media/App.css": "/Nickryan13/github.io/Nicholas_Portfolio/static/media/wall-and-laptop-background.f9e274f4.jpg",
+    "static/media/wanderlust.cfa5ef09.png": "/Nickryan13/github.io/Nicholas_Portfolio/static/media/wanderlust.cfa5ef09.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c46ec263.js",
+    "static/css/2.a894a7ba.chunk.css",
+    "static/js/2.d125fcfc.chunk.js",
+    "static/css/main.431d564f.chunk.css",
+    "static/js/main.6bc326b4.chunk.js"
+  ]
+}
