@@ -87,7 +87,7 @@ const Portfolio = () => {
   const openPopupboxportfolio = () => {
     const content = (
       <>
-        <h1>React Portfolio Template Project</h1>
+        <h1 className="popupbox-title">React Portfolio Template Project</h1>
         <img className="portfolio-image-popupbox" src={portfolio} alt="Task Manager React and Redux Project..." />
         <p>Portfolio template done using React.js and React material UI.</p>
         <b>Demo:</b> <a className="hyper-link" onClick={() => window.open("https://www.nicholasmontgomery-reactportfolio.com/#/", "_blank")}>https://www.nicholasmontgomery-reactportfolio.com/#/</a>
