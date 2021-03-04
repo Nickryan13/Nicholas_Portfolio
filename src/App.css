@@ -47,7 +47,7 @@ nav ul li {
 }
 
 .navbar-nav > li > a.active,
-.navbar-nav > li > a.active:focus {
+.navbar-nav > li > a:focus {
   border-top: 0.1875rem solid var(--primary-orange);
 }
 
@@ -60,7 +60,7 @@ nav ul li {
   background: url(wall-and-laptop-background.jpg) no-repeat;
   background-size: cover;
   background-position: center;
-  height: 90vh;
+  height: 100vh;
 }
 .main-info {
   display: flex;
@@ -328,6 +328,10 @@ nav ul li {
   transition: 0.3s ease-in-out;
   cursor: pointer;
 }
+
+.popupbox-wrapper {
+  margin-top: 7rem;
+}
 /************************ Popupbox *********************************/
 
 .portfolio-image-popupbox {
@@ -340,6 +344,11 @@ nav ul li {
 }
 .hyper-link:hover {
   color: var(--primary-red);
+}
+.popupbox-title {
+  text-align: center;
+  margin-bottom: 1.75rem;
+  color: var(--primary-dark-grey) !important;
 }
 /************************ MEDIA *********************************/
 @media (max-width: 768px) {
@@ -365,4 +374,105 @@ nav ul li {
   .portfolio-image-popupbox {
     width: 50%;
   }
+}
+/************************ Contacts *********************************/
+.contacts {
+  background: var(--primary-dark);
+  padding: 3rem 0;
+}
+.contacts h1 {
+  color: var(--primary-orange);
+  padding: 1.3rem 0;
+  text-transform: uppercase;
+}
+.contacts p {
+  color: var(--primary-light-grey);
+  font-size: 1.2rem;
+}
+/************************ Contacts input *********************************/
+.contacts input,
+.contacts textarea {
+  width: 100%;
+  box-sizing: border-box;
+  background: none;
+  resize: none;
+  border: 0;
+  border-bottom: 0.125rem solid var(--primary-dark-grey);
+  border-radius: 0;
+  color: var(--primary-grey);
+  outline: 0 !important;
+  box-shadow: none !important;
+  margin-bottom: 1rem;
+  padding-left: 0 !important;
+}
+.contacts .container {
+  padding: 4rem 0;
+}
+.contacts input:focus,
+.contacts textarea {
+  background: transparent;
+  color: var(--primary-orange);
+  border-bottom: 0.125rem solid var(--primary-dark-grey);
+}
+
+.contacts textarea {
+  height: 12.4rem !important;
+}
+.contact-btn {
+  margin: 1rem 0 0 0;
+  width: 100%;
+  background: none;
+}
+.line {
+  position: relative;
+  top: -0.8rem;
+  width: 0;
+  height: 0.125rem;
+  background: var(--primary-orange);
+  display: inline-block;
+}
+input:focus + .line,
+textarea:focus + .line {
+  width: 100%;
+  transition: width 0.5s ease-in-out;
+}
+
+textarea.form-control {
+  margin: -0.3rem 0;
+}
+.success-message {
+  color: var(--primary-orange);
+}
+
+@media (max-width: 768px) {
+  .contacts {
+    overflow-x: hidden;
+  }
+  .contacts .container {
+    padding: 0.1rem;
+  }
+  .contacts p {
+    padding: 0 0.4rem;
+  }
+}
+/************************ FOOTER COMPONENT *********************************/
+.footer {
+  background: var(--primary-black);
+  color: var(--primary-dark-grey);
+  padding: 3rem;
+}
+
+.footer a {
+  text-decoration: none;
+  color: var(--primary-dark-grey);
+}
+
+.footer a:hover {
+  text-decoration: none;
+  color: var(--primary-orange);
+  cursor: pointer;
+}
+
+.footer p {
+  margin-bottom: 0;
 }
