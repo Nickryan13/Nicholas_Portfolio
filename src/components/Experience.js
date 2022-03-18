@@ -20,7 +20,7 @@ const Experience = () => {
         <div className="timeline-block timeline-block-left">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2018</h3>
+            <h3>2020</h3>
             <p>Enrolled into Devry University to earn undergraduate degree in web and graphic design. Learned basic HTML, css, Javascript as well as advanced techniques with Adobe cs applications.</p>
           </div>
           </div>
