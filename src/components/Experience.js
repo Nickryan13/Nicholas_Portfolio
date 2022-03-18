@@ -12,7 +12,7 @@ const Experience = () => {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2017</h3>
+            <h3>2020</h3>
             <p>Was offered position as a store manager of O'reilly auto parts.  leadership skills, marketing strategies, customer service and time management. </p>
           </div>
         </div>
